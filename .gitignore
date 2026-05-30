@@ -1,0 +1,18 @@
+# Entorno virtual
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos temporales y cachés
+*.db
+*.sqlite3
+
+# Credenciales y secretos
+token_cache.json
+credentials.json
+.env
+
+# Archivos de sistema
+*.log
